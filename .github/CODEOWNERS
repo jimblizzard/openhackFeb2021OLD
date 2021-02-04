@@ -1,0 +1,4 @@
+# CODEOWNERS
+
+# jimmyblizzard owns the poi api 
+/apis/poi/ @jimmyblizzard
