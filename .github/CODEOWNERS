@@ -1,4 +1,5 @@
 # CODEOWNERS
 
 # jimmyblizzard owns the poi api 
+# this pattern will match any file within the /apis/poi directory structure 
 /apis/poi/ @jimmyblizzard
